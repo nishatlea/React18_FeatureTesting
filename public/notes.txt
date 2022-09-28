@@ -1,0 +1,16 @@
+eslint to show probable errors
+robot.txt for search engine
+single page application (index.html)
+Folder structure with short description:
+index.html => root (div id)
+web vitals  => performance & analytics tracking
+app.css => styling app.js
+app.test.js => unit test (simple test case)
+index.css => style index.js
+logo.svg => used in app.js 
+setup tests => testing
+index.html => served in the browser & contains root dom node 
+
+Changes :
+1. check index.js file 
+(previous lines are commented out)
