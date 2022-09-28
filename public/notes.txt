@@ -11,6 +11,22 @@ logo.svg => used in app.js
 setup tests => testing
 index.html => served in the browser & contains root dom node 
 
-Changes :
-1. check index.js file 
-(previous lines are commented out)
+Components:
+1.used in .js file
+2. 2 types : functional component , class component 
+Functional component:
+properties(props) => JS Function => html(jsx)
+3.exporting & importing
+instead of using export default Greet 
+we can use import {Greet} from "./components/Greet" at the time of importing and use export keyword at the time of defining the function.
+
+JSX differences with html
+class => className
+for => htmlfor
+camelCase Property naming convention
+onclick => onClick
+-.-
+jsx produces react elements
+
+Props
+Every props and child props and all tags should be between only one wrapper element
