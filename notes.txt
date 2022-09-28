@@ -41,4 +41,28 @@ State:
 State is managed within the component 
 Variables declared in the function body
 State can be changed
+useState hook:
+Example code:
+import { useState } from "react";
+const Message = () => {
+  const [message, setMessage] = useState("Welcome Visitor");
+
+  return (
+    <div>
+      <h1> {message} </h1>
+      <button onClick={() => setMessage("Thank you for subscribing!")}>
+        Subscribe
+      </button>
+    </div>
+  );
+};
+
+Hooks:
+special function that lets you hook into React features
+Example hooks: 
+useState, useReducer, useEffect, useContext, useRef, useMemo, useCallback
+react18 edition hooks: useTransition, useDeferredValue  
+
+Event Handling
+
 
