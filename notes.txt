@@ -28,5 +28,17 @@ onclick => onClick
 -.-
 jsx produces react elements
 
-Props
-Every props and child props and all tags should be between only one wrapper element
+Props:
+Props are immutable . Their values can't be changed
+props get passed to component 
+Function parameters
+
+Children props:
+Children props are very useful when you have to compose new component from existing component
+Every props and child props and all html tags should be between only one wrapper element
+
+State:
+State is managed within the component 
+Variables declared in the function body
+State can be changed
+

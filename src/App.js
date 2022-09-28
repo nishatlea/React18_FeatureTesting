@@ -7,7 +7,9 @@ function App() {
       Hello World
       <Greet />
       <Greet name="Bruce" heroName="Batman" />
-      <Greet name="Clark" heroName="Superman" />
+      <Greet name="Clark" heroName="Superman">
+        <button> Action </button>
+      </Greet>
       <Greet name="Diana" heroName="Wonder Woman">
         <p> This is children props </p>
       </Greet>

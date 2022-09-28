@@ -1,5 +1,6 @@
 # React18_FeatureTesting
-This is to check different features of React 18 and testing on them
+This is to check different features of React 18 and testing on them.
+Basic things about react  are written in the file notes.txt 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
