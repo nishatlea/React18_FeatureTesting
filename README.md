@@ -4,11 +4,14 @@ Basic things about react  are written in the file 'notes.txt'
 The tutorials link I am following to make this repo is given below:
 * https://www.youtube.com/watch?v=jLS0TkAHvRg
 * https://www.taniarascia.com/getting-started-with-react
+* https://github.com/typescript-cheatsheets/react#function-components
+* https://reactjs.org/tutorial/tutorial.html
 
 # Typescript tutorial:
 
 * https://www.youtube.com/watch?v=d56mG7DezGs
 * https://www.youtube.com/watch?v=FJDVKeh7RJI
+* https://github.com/typescript-cheatsheets
 
 # CSS Tutorial 
 * https://www.youtube.com/watch?v=u044iM9xsWU
