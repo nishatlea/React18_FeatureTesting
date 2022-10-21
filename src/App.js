@@ -4,6 +4,7 @@ import Message from "./components/Message";
 import { ClickHandler } from "./components/ClickHandler";
 import { ParentComponent } from "./components/ParentComponent";
 import { UserGreeting } from "./components/UserGreeting";
+import { NameList } from "./components/NameList";
 
 function App() {
   return (
@@ -23,6 +24,8 @@ function App() {
       <ParentComponent />
       <br />
       <UserGreeting />
+      <br />
+      <NameList />
     </div>
   );
 }
