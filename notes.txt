@@ -71,3 +71,4 @@ Automatically receives event assets argument so we can specify event as a parame
 
 #Parent and child component combination
 #using props in parent child combination
+#passing props values to alert : alert("parent" + childName);
