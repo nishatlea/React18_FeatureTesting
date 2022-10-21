@@ -73,3 +73,8 @@ Automatically receives event assets argument so we can specify event as a parame
 #using props in parent child combination
 #passing props values to alert : alert("parent" + childName);
 #Displaying a list of items => We use js map method to achieve that 
+Styling React Components:
+1.CSS Stylesheets
+2.Inline styling
+3.CSS Modules
+4.CSS in JS Libraries
