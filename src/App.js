@@ -1,5 +1,6 @@
 import "./App.css";
 import "./appStyles.css";
+import { Form } from "./components/Form";
 import styles from "./appStyles.module.css";
 import { Greet } from "./components/Greet";
 import Message from "./components/Message";
@@ -36,6 +37,8 @@ function App() {
       <Inline />
       <h1 className="error"> Error</h1>
       <h1 className={styles.success}> Success </h1>
+      <br />
+      <Form />
     </div>
   );
 }
