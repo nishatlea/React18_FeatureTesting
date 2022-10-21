@@ -12,6 +12,10 @@ The tutorials link I am following to make this repo is given below:
 
 # CSS Tutorial 
 * https://www.youtube.com/watch?v=u044iM9xsWU
+Tailwind css:
+* https://www.youtube.com/watch?v=68O6eOGAGqA
+* https://www.geeksforgeeks.org/introduction-to-tailwind-css/?ref=lbp
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

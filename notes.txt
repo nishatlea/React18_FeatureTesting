@@ -69,4 +69,5 @@ In js it is possible to define a function inside a function
 Do not assign parenthesis because then function gets called when the component render and that's not something we want.
 Automatically receives event assets argument so we can specify event as a parameter to click handler and log it to the console 
 
-
+#Parent and child component combination
+#using props in parent child combination
