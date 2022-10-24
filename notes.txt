@@ -78,3 +78,8 @@ Styling React Components:
 2.Inline styling
 3.CSS Modules
 4.CSS in JS Libraries
+#To prevent page refresh , event.preventDefault() function is called 
+#react http request 
+{JSON}Placeholder 
+handling api
+#Fetch json data from api uri 

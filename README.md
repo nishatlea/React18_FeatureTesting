@@ -6,6 +6,7 @@ The tutorials link I am following to make this repo is given below:
 * https://www.taniarascia.com/getting-started-with-react
 * https://github.com/typescript-cheatsheets/react#function-components
 * https://reactjs.org/tutorial/tutorial.html
+* https://jsonplaceholder.typicode.com 
 
 # Typescript tutorial:
 

@@ -10,6 +10,7 @@ import { UserGreeting } from "./components/UserGreeting";
 import { NameList } from "./components/NameList";
 import { Stylesheet } from "./components/Stylesheet";
 import { Inline } from "./components/Inline";
+import { PostList } from "./components/PostList";
 
 function App() {
   return (
@@ -39,6 +40,8 @@ function App() {
       <h1 className={styles.success}> Success </h1>
       <br />
       <Form />
+      <br />
+      <PostList />
     </div>
   );
 }

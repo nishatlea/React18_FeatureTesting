@@ -2,6 +2,7 @@ import { useState } from "react";
 
 export const Form = () => {
   const [username, setUsername] = useState("");
+
   const handleSubmit = (event) => {
     event.preventDefault();
     alert("Form data is " + username);
