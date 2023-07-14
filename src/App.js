@@ -41,7 +41,7 @@ function App() {
       <br />
       <Form />
       <br />
-      <PostList />
+      {/* <PostList /> */}
     </div>
   );
 }

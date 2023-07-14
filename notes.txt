@@ -83,3 +83,5 @@ Styling React Components:
 {JSON}Placeholder 
 handling api
 #Fetch json data from api uri 
+parent props data updated in child
+Redux
